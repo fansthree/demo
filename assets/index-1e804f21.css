@@ -1,0 +1,1 @@
+:root{--txt: #333;--txt2: #333;--txt3: #222}html,body{margin:0;height:100%;padding:0}html{overflow-y:scroll;scroll-behavior:smooth;line-height:1.5;color:var(--textColor)}body{font-size:var(--textBase)}body,input,textarea,select,button{font-family:var(--fontFamily)}
